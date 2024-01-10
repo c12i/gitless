@@ -1,5 +1,7 @@
 # gitless
 
+[![](https://img.shields.io/crates/v/gitless)](https://crates.io/crates/gitless)
+
 Gitless is a command-line interface (CLI) tool that facilitates cloning and degitting from a Git repository. It simplifies the process of cloning a repository and removing its Git history, leaving only the latest state of the code.
 
 ## installation
@@ -13,7 +15,7 @@ cargo install gitless
 As lib
 
 ```sh
-cargo add `gitless`
+cargo add gitless
 ```
 
 
