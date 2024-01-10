@@ -12,7 +12,9 @@ cargo install gitless
 
 As lib
 
+```sh
 cargo add `gitless`
+```
 
 
 ## cli usage
