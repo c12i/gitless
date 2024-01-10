@@ -1,7 +1,13 @@
 [package]
 name = "gitless"
-version = "0.1.0"
+version = "1.0.0"
+authors = ["Collins Muriuki <murerwacollins@gmail.com>"]
 edition = "2021"
+description = "Clone and degit a repo"
+keywords = ["git", "degit",]
+repository = "https://github.com/c12i/gitless"
+readme = "./README.md"
+license = "MIT"
 
 [lib]
 path = "./src/lib.rs"
